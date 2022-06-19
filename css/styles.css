@@ -87,8 +87,12 @@ ul li a:hover {
   background: transparent;
   background-position: bottom right;
   margin-bottom: -235px;
+
 }
 
+.purple {
+  background-color: rgb(110, 17, 153);
+}
 
 .text-back-hero {
   background-color: rgba(180, 32, 173, 0.377);
@@ -96,7 +100,7 @@ ul li a:hover {
   text-align: center;
   position: relative;
   top: -375px;
-  left: 110px;
+  left: 890px;
   width: 750px;
 }
 
@@ -186,4 +190,8 @@ color: rgb(17, 216, 33);
 
 .fa-ice-cream {
 color: rgb(62, 15, 170);
+}
+
+.fa-bread-slice {
+  color: rgb(64, 17, 153);
 }
