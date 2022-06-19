@@ -100,9 +100,20 @@ ul li a:hover {
   text-align: center;
   position: relative;
   top: -375px;
+  left: 110px;
+  width: 750px;
+}
+
+.text-back-hero-about {
+  background-color: rgba(180, 32, 173, 0.377);
+  padding: 12px 50px;
+  text-align: center;
+  position: relative;
+  top: -375px;
   left: 890px;
   width: 750px;
 }
+
 
 h3 {
   text-align: center;
