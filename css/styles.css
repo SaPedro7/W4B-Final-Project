@@ -14,11 +14,20 @@ body {
 
 header {
   background-color: transparent;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 20px;
   padding-top: 150px;
   text-align: center;
 }
+
+h1 {
+  font-family: cursive;
+  font-size: 800%;
+}
+
+h2, h3, h4, h5, h5 {
+  font-family: cursive;
+}
+
 
 .audio {
   width: 200px;
@@ -80,6 +89,7 @@ ul li a:hover {
   margin-bottom: -235px;
 }
 
+
 .text-back-hero {
   background-color: rgba(180, 32, 173, 0.377);
   padding: 12px 50px;
@@ -108,12 +118,12 @@ h3 {
   background-color: rgb(170, 15, 110);
   padding: 5px;
   margin-bottom: 15px;
-  color: rgb(255, 255, 255);
+  color: rgb(255, 0, 0);
 }
 
 .col-one:hover {
   background-color: rgb(199, 15, 70);
-  color: rgb(196, 251, 255);
+  color: rgb(255, 255, 255);
 }
 
 .col-two {
@@ -126,7 +136,7 @@ h3 {
 
 .col-two:hover {
   background-color: rgb(243, 105, 202);
-  color: rgb(255, 255, 255);
+  color: rgb(147, 255, 6);
 }
 
 .col-three {
@@ -139,7 +149,7 @@ h3 {
 
 .col-three:hover {
   background-color: rgb(0, 255, 136);
-  color: rgb(255, 255, 255);
+  color: rgb(62, 15, 170);
 }
 
 footer {
