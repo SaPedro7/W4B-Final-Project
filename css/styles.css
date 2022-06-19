@@ -171,3 +171,19 @@ footer {
   color: rgb(240, 63, 99);
   text-shadow: 1px 1px rgb(0, 0, 0);
 }
+
+.fa-facebook {
+color: rgb(255, 217, 0);
+}
+
+.fa-instagram {
+color: rgb(190, 10, 181);
+}
+
+.fa-twitter {
+color: rgb(17, 216, 33);
+}
+
+.fa-ice-cream {
+color: rgb(62, 15, 170);
+}
