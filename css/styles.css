@@ -28,6 +28,13 @@ h2, h3, h4, h5, h5 {
   font-family: cursive;
 }
 
+.article {
+padding: 0;
+}
+
+section {
+  margin-left: 50px;
+}
 
 .audio {
   width: 200px;
@@ -112,6 +119,17 @@ ul li a:hover {
   top: -375px;
   left: 890px;
   width: 750px;
+}
+
+.text-back-hero-contact {
+  background-color: rgba(180, 32, 173, 0.377);
+  padding: 12px 50px;
+  text-align: center;
+  position: relative;
+  top: -375px;
+  left: 505px;
+  width: 750px;
+  margin-bottom: 20px;
 }
 
 
