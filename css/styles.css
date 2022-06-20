@@ -48,6 +48,7 @@ input[type=submit]:hover {
 
 .fries {
   margin-left: 17.5px;
+  margin-bottom: -500px;
 }
 
 .text-back-fries {
@@ -271,5 +272,9 @@ color: rgb(62, 15, 170);
 }
 
 .fa-bread-slice {
+  color: rgb(64, 17, 153);
+}
+
+.fa-hotdog {
   color: rgb(64, 17, 153);
 }
